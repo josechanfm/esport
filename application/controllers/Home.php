@@ -8,7 +8,14 @@ class Home extends MY_Controller {
 
 	public function index()
 	{
-		$this->render('home');
+		$this->load->library('form_builder');
+		$form = $this->form_builder->create_form();
+
+		if ($form->validate())
+		{
+		}
+		$this->mViewData['form']=$form;
+		$this->render('home','empty');
 	}
 
 	public function mailer(){
