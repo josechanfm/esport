@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>ComingSoon - Bootstrap Coming Soon Template</title>
+  <title>中國電競比賽</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -36,24 +36,24 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex flex-column align-items-center">
 
-      <h1>ComingSoon</h1>
-      <h2>We're working hard to improve our website and we'll ready to launch after</h2>
+      <h1>報名表</h1>
+      <h2>名額有限，想要組隊報名的玩家請千萬不要錯過機會！</h2>
       <div class="countdown d-flex justify-content-center" data-count="2023/12/5">
         <div>
           <h3>%d</h3>
-          <h4>Days</h4>
+          <h4>天</h4>
         </div>
         <div>
           <h3>%h</h3>
-          <h4>Hours</h4>
+          <h4>小時</h4>
         </div>
         <div>
           <h3>%m</h3>
-          <h4>Minutes</h4>
+          <h4>分鐘</h4>
         </div>
         <div>
           <h3>%s</h3>
-          <h4>Seconds</h4>
+          <h4>秒</h4>
         </div>
       </div>
 
@@ -158,19 +158,19 @@
               <div class="row">
                 <div class="col-lg-4 info">
                   <i class="bi bi-geo-alt"></i>
-                  <h4>Location:</h4>
+                  <h4>比賽場地:</h4>
                   <p>A108 Adam Street<br>New York, NY 535022</p>
                 </div>
 
                 <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="bi bi-envelope"></i>
-                  <h4>Email:</h4>
+                  <h4>電郵:</h4>
                   <p>info@example.com<br>contact@example.com</p>
                 </div>
 
                 <div class="col-lg-4 info mt-4 mt-lg-0">
                   <i class="bi bi-phone"></i>
-                  <h4>Call:</h4>
+                  <h4>聯繫電話:</h4>
                   <p>+1 5589 55488 51<br>+1 5589 22475 14</p>
                 </div>
               </div>
@@ -190,14 +190,10 @@
   <footer id="footer">
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>ComingSoon</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>Hubis</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/comingsoon-free-html-bootstrap-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://hubis.ltd/">Hubis</a>
       </div>
     </div>
   </footer><!-- End #footer -->
